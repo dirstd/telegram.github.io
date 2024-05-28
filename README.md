@@ -2,5 +2,7 @@
     <head>
         <title>Главная страница</title>
     </head>
-    <button>Play</button>
+    <body>
+        <button>Play<button>
+    </body>
 </html>
